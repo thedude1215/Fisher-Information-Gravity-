@@ -1,0 +1,14 @@
+We construct and analyze a covariant gravitational theory in which spacetime couples to the information structure of baryonic matter through gradients of χ ≡ ln n, where n is the rest-frame baryon-number density. The action adds a Fisher-information (FI) functional to Einstein-Hilbert.
+
+We give:
+(i) a constrained-variation derivation of the FI stress tensor and a direct conservation proof;
+(ii) Newtonian/PPN limits;
+(iii) quadratic stability and energy conditions;
+(iv) an FRW theorem showing the FI sector is a stiff fluid (w=1) with density scaling as a^-6;
+(v) a symmetry analysis (diffeomorphisms, x-shift, baryon number);
+(vi) an EFT viewpoint, explicit operator basis, and screening mechanisms;
+(vii) lensing/slip predictions and a qualitative RAR connection;
+(viii) linear cosmological perturbations; and
+(ix) a reproducible Phenomenological Methods pipeline (AIC/BIC, hierarchical Bayes, axisymmetric solvers).
+
+The manuscript is self-contained with an inline reference list.
